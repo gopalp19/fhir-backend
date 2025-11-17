@@ -2,11 +2,15 @@
   "keys": [
     {
       "kty": "RSA",
-      "n": "1XCAxeNZ9DevppDJDBEWt7uOU6hW3YoMVrXzw_jn1xoMsOW72eKabnAT5A0lEbRiG4YCxQjbgrwP3gaUfPqRVeNWVSFuQlMx_GyXFXw3nUk2ZLev6GzC7guJicWi62NCFmYg3jirLDejWP3Tf2qEqIBoVU4e4a6lNadJHqPE-P4y0u5yh4Z1WJIKh9H-N1JhFwfvGVZLkbVtf2V_sCZq87p8tNiA_ktysnBrWVRa4C1VvYjcEbQ7W4GKCcI7VpvtRHthJSCDKhZ4vpdSjRWubhObvhav77JECHG1R5El587w5YXR951xyDiFbsDXVmkMO9tjEVuTD7KLmmzhlrBI7Q",
-      "e": "AQAB",
       "use": "sig",
       "alg": "RS384",
-      "kid": "my-key-id-001"
+      "kid": "e3f8c3a2-a317-4c71-8d9d-f90c8f928a91",
+      "key_ops": [
+        "verify"
+      ],
+      "ext": true,
+      "n": "wsu7eSRAs1kX37INGHoXP8OEhU7W8C5q05Wz5v8kDV78LCt6L-7MSi5WFStKiuAqVvjP2vZAVDml0Nd81FwcZuszjUM4JrCXkO4uEIuPTEqMd5crTE7BxGeUi4UvYfVHHL_v5HDXzU32rsoSIL7VPoBBPfIcMEZOAbV8wJsTbmYlNgCfVCFeXUS1FFC57c8sQh8zydIZIs3KwMP4WGW1ODbjCZ2yUnNGWznOHjCuoMIePN3nKeB8LVanLkaccCIAxLWdd4QVt9lfBjJoJ0Z0NBRfgTcKKaFj-awGkkUoKNaF9kUT0IGv_a62jPKimR-SWYo3bwUXXasYOq-LOwXwV78m9nvV5iMEPa4usUz8jbL2IAmcT7pJ0uRpPco8ErzclJzk_QfKmavk1DBtwldMK8GKfnHNXUup8zrJtSUQdah47NOzS9m0id4mSMfDs8isc-dyXaLa0D0rnugqsRxH71yCCY8zLrxdIElo3Bz4p1jGUt4TKwE_uLQIxz48kHpz",
+      "e": "AQAB"
     }
   ]
 }
